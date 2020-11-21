@@ -1,0 +1,18 @@
+.nav {
+	grid-area: nav;
+	background-color: #13293d;
+	padding: 20px;
+}
+
+.item {
+	color: white;
+}
+
+.item a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.item a.activeLink {
+	color: #fb8500;
+}
